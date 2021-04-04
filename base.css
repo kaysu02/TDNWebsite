@@ -27,11 +27,15 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 	font-family: 'Roboto Condensed', sans-serif;
 	font-weight: 300;
-	background-image: url(TDNLogo1.png);
-	background-repeat: no-repeat;
+	background-image: url(TDNLogo1.png); */
+	/* background-repeat: no-repeat;
 	background-position: 1vh;
 	background-size: 50vw;
 }
+
+/* .img {
+
+} */
 
 a {
 	margin-top: 10px;
@@ -153,4 +157,6 @@ a:focus {
 	  .nav a:hover {
 		color: #ffffff;
 	  }
+
+
 	  
